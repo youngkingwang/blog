@@ -42,6 +42,10 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+		Hexo: hexo
+		WP8: wp8
+		C/C++: c/cplusplus
+		IOS: ios
 tag_map:
 
 # Archives
